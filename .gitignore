@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Generated parser outputs
+scratch/
+
+# Test / sample documents
+*.pdf
+*.docx
+*.pptx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+# Core
+docling>=2.5.0
+PyYAML>=6.0
+
+# Table export (optional but strongly recommended)
+pandas>=2.0
+tabulate>=0.9        # for DataFrame.to_markdown()
+
+# OCR extras – install the one(s) you need:
+# easyocr>=1.7        # default OCR backend (GPU-capable)
+# pytesseract>=0.3    # Tesseract wrapper
